@@ -20,7 +20,7 @@ so it's coming soon.
 - 🌐 I live in LATAM, and my native language is spanish.
 - 🎸 I am also a musician, and I really ❤️ to play guitar, drums, and piano.
 - 🎮 I ❤️ to play videogames too!
-- 💍 But most of all, I really ❤️ god, and the beautiful wife he gave to me.
+- 💍 But most of all, I really ❤️ god, and the beautiful wife he gave me.
 
 ### Contact me
 
