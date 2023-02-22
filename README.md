@@ -1,7 +1,7 @@
 ## Hello world! 👋
 
 <> My name is Carlos. I'm a frontend web developer, with
-1 year experience with React and NextJS. </>
+2 years experience with React and NextJS. </>
 
 I ❤️ coding, and I'm working on my
 second personal project. My 9 years experience as a graphic
