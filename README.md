@@ -24,4 +24,4 @@ so it's coming soon.
 ### Contact me
 
 If you want me to be member of your team, either short or long term, feel
-free to [text me](https://wa.me/522281259898) ✉️📮
+free to [text me](mailto:carlosparramtz@hotmail.com) ✉️📮
