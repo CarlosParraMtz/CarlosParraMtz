@@ -1,11 +1,12 @@
 ## Hello world! 👋
 
 <> My name is Carlos. I'm a frontend web developer, with
-2 years experience with React and NextJS. </>
+2 years experience with Javascript Frameworks as React, Next.js and Vue. </>
 
-I ❤️ coding, and I'm working on my
-second personal project. My 9 years experience as a graphic
-designer has helped me to improve my work with UI design.
+I ❤️ coding, and I'm working on some projects by myself and as a member of
+a team, and constanly learning new things to improve my developer skills.
+
+My 9 years experience as a graphic designer has helped me to improve my work with UX/UI design.
 
 ### Portfolio
 
