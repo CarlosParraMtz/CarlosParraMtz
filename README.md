@@ -6,8 +6,6 @@
 I ❤️ coding, and I'm working on my
 second personal project. My 9 years experience as a graphic
 designer has helped me to improve my work with UI design.
-Despite it, sometimes add Material UI to my projects and some
-components to improve my workflow.
 
 ### Portfolio
 
